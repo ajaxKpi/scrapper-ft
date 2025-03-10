@@ -5,6 +5,7 @@
   "main": "event-ft.js",
   "scripts": {
     "start": "node event-ft.js",
+    "railway:start": "node event-ft.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
