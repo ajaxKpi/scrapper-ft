@@ -1,8 +1,8 @@
 {
   "name": "scraper",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "FT tickets scraper",
+  "main": "event-ft.js",
   "scripts": {
     "start": "node event-ft.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,6 @@
     "nodemailer": "^6.9.9"
   },
   "engines": {
-    "node": ">=14.x"
+    "node": ">=18.x"
   }
 }
